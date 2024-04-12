@@ -27,3 +27,8 @@ Contribuições para a melhoria deste sistema são bem-vindas. Sinta-se à vonta
 ## Licença
 Este projeto está licenciado sob a GNU General Public License v3.0.
 
+## Vídeo
+https://www.youtube.com/watch?v=3_6WjbVD880&feature=youtu.be
+
+## Código no Tinkercad
+
